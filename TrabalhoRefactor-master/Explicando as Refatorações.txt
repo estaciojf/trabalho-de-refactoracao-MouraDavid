@@ -1,0 +1,7 @@
+- CLASSE CadastroLivroController: - /*REFATORAÇÃO: ENCAPSULAMENTO DOS METRODOS E ATRIBUTOS AFIM DE SEPARAR MELHOR A CLASSE */ 
+- View InitView - Encapsulamento de metodos
+- CLASSE CadastroLivroController: - /*Campo author aceitar apenas letras*/
+- CLASSE TableLivroListener1 - /*Uso da variavel delegate, usada em eventos */
+- /*Criação de uma interface*/
+
+ 
